@@ -8,5 +8,5 @@ Please cite Yu-Xiao Zhu, Junming Huang, Zi-Ke Zhang, Qian-Ming Zhang, Tao Zhou, 
 Email us if you have any question. Reach us by zhuyux@indiana.edu or yyahn@indiana.edu.
 
 
-Yuxiao Zhu
+Updated by Yuxiao Zhu
 11/22/2013
