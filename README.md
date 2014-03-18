@@ -1,12 +1,12 @@
 Chinese-cuisine
 -----------------
 
-This folder contains the dataset and codes (will come soon) used in paper "Geography and similarity of regional cuisines in China". 
+This folder contains the dataset and codes (will keep updating) used in paper "Geography and similarity of regional cuisines in China". 
 
 Please cite Yu-Xiao Zhu, Junming Huang, Zi-Ke Zhang, Qian-Ming Zhang, Tao Zhou, Yong-Yeol Ahn, Geography and similarity of regional cuisines in China, PLoS One 2013, 8(11): e79161 if you use our dataset or codes. Thanks.
 
-Email us if you have any question. Reach us by zhuyux@indiana.edu or yyahn@indiana.edu.
+Email us if you have any question. Reach me by zhuyuxiao.mail@gmail.com.
 
 
 Updated by Yuxiao Zhu
-11/22/2013
+03/18/2014
