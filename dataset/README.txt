@@ -25,8 +25,6 @@ Note:
 1) The name of file in the three folders describes the name of regional cuisine. 
 2) Some information, like recipe_name, ingredient_name, cooking methods are all in Chinese.
 
-Please cite Yu-Xiao Zhu, Junming Huang, Zi-Ke Zhang, Qian-Ming Zhang, Tao Zhou, Yong-Yeol Ahn, Geography and similarity of regional cuisines in China,
-(2013), arxiv:1307.3185 if you use our dataset. Thanks.
 
 
 Updated by Yuxiao Zhu, 7/31/2013
