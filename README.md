@@ -1,4 +1,4 @@
-<h4>Chinese-cuisine</h4>
+<h3>Chinese-cuisine</h3>
 -----------------
 
 This folder contains the dataset and codes used in paper "Geography and similarity of regional cuisines in China". 
@@ -10,7 +10,7 @@ Updated by Yuxiao Zhu
 03/18/2019
 
 
-<h5>crawler.py</h5> 
+<h3>crawler.py</h3> 
 fetch recipe data from website Meishijie(https://www.meishij.net/china-food/caixi/)
 </br>
 code with python, xpath
