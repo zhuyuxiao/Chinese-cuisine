@@ -13,5 +13,4 @@ Updated by Yuxiao Zhu
 <h3>crawler.py</h3> 
 fetch recipe data from website Meishijie(https://www.meishij.net/china-food/caixi/)
 </br>
-code with python, xpath
 
